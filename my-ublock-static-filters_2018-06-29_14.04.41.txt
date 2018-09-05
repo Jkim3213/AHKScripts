@@ -1,0 +1,85 @@
+! 5/30/2018, 10:58:16 PM https://www.facebook.com/
+www.facebook.com##._2pie
+
+! 5/30/2018, 10:58:35 PM https://www.facebook.com/
+www.facebook.com###js_92
+
+! 5/30/2018, 10:59:08 PM https://www.facebook.com/jacob.kim.739978
+www.facebook.com###u_jsonp_2_j
+
+! 5/30/2018, 10:59:24 PM https://www.facebook.com/jacob.kim.739978
+www.facebook.com###u_0_1r
+
+! 5/30/2018, 11:00:00 PM https://www.facebook.com/
+www.facebook.com##._55ob._4kqp
+
+! 5/30/2018, 11:00:05 PM https://www.facebook.com/
+www.facebook.com##._50z3._9bp._1ltv
+
+! 5/30/2018, 11:00:21 PM https://www.facebook.com/
+www.facebook.com##._4kqp._62gz
+
+
+||youtube.com^|$document
+
+
+! 6/1/2018, 1:10:13 AM https://www.facebook.com/messages/t/aurelius.stone
+www.facebook.com##._50tj._2t-a
+
+! 6/1/2018, 1:10:35 AM https://www.facebook.com/messages/t/aurelius.stone
+www.facebook.com###js_0
+
+! 6/1/2018, 1:10:41 AM https://www.facebook.com/messages/t/aurelius.stone
+www.facebook.com###bluebarRoot
+
+
+! 6/9/2018, 4:27:01 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_C78Id78_content_box
+
+! 6/9/2018, 4:27:16 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_jK6ubYZ_related_questions_list
+
+! 6/9/2018, 4:27:23 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_NXjGGud_question_prompt
+
+! 6/9/2018, 5:38:31 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+! www.youtube.com###items
+
+! 6/9/2018, 5:38:48 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope > paper-button.yt-next-continuation.style-scope
+
+! 6/9/2018, 5:39:03 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###sections
+
+! 6/9/2018, 5:39:33 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###button
+
+! 6/9/2018, 5:39:42 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###end
+
+! 6/9/2018, 5:39:52 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###search
+
+! 6/9/2018, 6:26:06 PM https://www.youtube.com/watch?v=umrLKs1_lcw
+www.youtube.com###related
+
+! 6/9/2018, 6:26:37 PM https://www.youtube.com/watch?v=umrLKs1_lcw
+www.youtube.com###logo-icon-container
+
+! 6/9/2018, 6:26:47 PM https://www.youtube.com/feed/subscriptions
+www.youtube.com###guide-inner-content
+
+! 6/9/2018, 7:40:22 PM https://outlook.live.com/mail/inbox/id/AQQkADAwATY3ZmYAZS1hODRkLTYwOTYtMDACLTAwCgAQAJ6wktHAcQtBkaDFUOGntSA%3D
+outlook.live.com##._1j7WZ-n7dxhS9AQV-FL8U7 > ._2qPmszDwBfYpF7PO9Mn3KN > .stQe7wknhnXCAAroiyvBY
+
+! 6/9/2018, 10:15:11 PM https://www.quora.com/How-good-is-the-processor-for-a-Intel-Celeron
+www.quora.com###__w2_RKdKxDj_wrapper
+
+! 6/23/2018, 5:20:10 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com###message-text
+
+! 6/23/2018, 5:20:16 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope.ytd-mealbar-promo-renderer-message-title
+
+! 6/23/2018, 5:20:21 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope.button-container
