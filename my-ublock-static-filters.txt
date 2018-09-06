@@ -1,0 +1,196 @@
+||youtube.com^|$document
+
+! 6/9/2018, 4:27:01 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_C78Id78_content_box
+
+! 6/9/2018, 4:27:16 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_jK6ubYZ_related_questions_list
+
+! 6/9/2018, 4:27:23 PM https://www.quora.com/How-can-I-get-better-at-color-(for-website-design)
+www.quora.com###__w2_NXjGGud_question_prompt
+
+! 6/9/2018, 5:38:31 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+! www.youtube.com###items
+
+! 6/9/2018, 5:38:48 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope > paper-button.yt-next-continuation.style-scope
+
+! 6/9/2018, 5:39:03 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###sections
+
+! 6/9/2018, 5:39:33 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###button
+
+! 6/9/2018, 5:39:42 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###end
+
+! 6/9/2018, 5:39:52 PM https://www.youtube.com/watch?v=qc_8jcHYBis
+www.youtube.com###search
+
+! 6/9/2018, 6:26:06 PM https://www.youtube.com/watch?v=umrLKs1_lcw
+www.youtube.com###related
+
+! 6/9/2018, 6:26:37 PM https://www.youtube.com/watch?v=umrLKs1_lcw
+www.youtube.com###logo-icon-container
+
+! 6/9/2018, 6:26:47 PM https://www.youtube.com/feed/subscriptions
+www.youtube.com###guide-inner-content
+
+! 6/9/2018, 7:40:22 PM https://outlook.live.com/mail/inbox/id/AQQkADAwATY3ZmYAZS1hODRkLTYwOTYtMDACLTAwCgAQAJ6wktHAcQtBkaDFUOGntSA%3D
+outlook.live.com##._1j7WZ-n7dxhS9AQV-FL8U7 > ._2qPmszDwBfYpF7PO9Mn3KN > .stQe7wknhnXCAAroiyvBY
+
+! 6/9/2018, 10:15:11 PM https://www.quora.com/How-good-is-the-processor-for-a-Intel-Celeron
+www.quora.com###__w2_RKdKxDj_wrapper
+
+! 6/23/2018, 5:20:10 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com###message-text
+
+! 6/23/2018, 5:20:16 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope.ytd-mealbar-promo-renderer-message-title
+
+! 6/23/2018, 5:20:21 PM https://www.youtube.com/watch?v=8H7mc2JEgsA
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope.button-container
+
+! 7/15/2018, 10:37:13 AM https://smashboards.com/threads/the-beginners-guide-to-playing-super-smash-bros-competitively-v2-plain-text-version-available.354776/
+smashboards.com##.banner_info--2XcOt
+
+! 7/15/2018, 10:37:16 AM https://smashboards.com/threads/the-beginners-guide-to-playing-super-smash-bros-competitively-v2-plain-text-version-available.354776/
+smashboards.com##.banner_message--2Rvgt
+
+! 7/15/2018, 10:37:19 AM https://smashboards.com/threads/the-beginners-guide-to-playing-super-smash-bros-competitively-v2-plain-text-version-available.354776/
+smashboards.com##.banner_banner--3pjXd
+
+! 7/15/2018, 10:37:31 AM https://smashboards.com/threads/the-beginners-guide-to-playing-super-smash-bros-competitively-v2-plain-text-version-available.354776/
+smashboards.com##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+
+! 7/15/2018, 3:02:04 PM https://medium.com/@eigenbom/how-to-take-7-years-to-ship-a-beta-4fcfc2428d88
+medium.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-sizeFullWidth.u-bottom0.u-fixed
+
+! 7/15/2018, 3:02:18 PM https://medium.com/@eigenbom/how-to-take-7-years-to-ship-a-beta-4fcfc2428d88
+medium.com##.u-xs-sizeFullViewportWidth.u-backgroundTransparentWhiteDarkest.u-fixed.js-metabar.u-clearfix.metabar
+
+! 7/15/2018, 3:02:26 PM https://medium.com/@eigenbom/how-to-take-7-years-to-ship-a-beta-4fcfc2428d88
+medium.com##.u-transition--fadeIn300.js-postShareWidget.u-marginLeftNegative12.u-sm-hide.u-fixed.u-top0.u-foreground
+
+! 7/15/2018, 9:25:05 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##div.e1yhpxjt1.css-70rfte:nth-of-type(2)
+
+! 7/15/2018, 9:25:08 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##.css-12lb1tb
+
+! 7/15/2018, 9:25:11 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##div.e1yhpxjt1.css-70rfte:nth-of-type(1)
+
+! 7/15/2018, 9:25:15 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##.e1yhpxjt0.css-3bfhll
+
+! 7/15/2018, 9:25:19 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##.vi_dock.css-10klw3m
+
+! 7/15/2018, 9:25:21 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##.e1wet1p0.css-9ghvn0
+
+! 7/15/2018, 9:25:24 PM https://www.nytimes.com/2018/07/12/style/joy-of-missing-out-summer.html
+www.nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
+
+! 7/16/2018, 9:54:38 PM https://www.facebook.com/paul.choo.165
+www.facebook.com##.back
+
+! 7/16/2018, 9:54:51 PM https://www.facebook.com/paul.choo.165
+www.facebook.com##.clearfix.stickyHeaderWrap > .name
+
+! 7/16/2018, 9:55:38 PM https://www.brookings.edu/
+www.brookings.edu##.rollup.full.newsletter-module.newsletter
+
+! 7/16/2018, 9:56:09 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.unpinned.not-top.site-header
+
+! 7/16/2018, 9:56:29 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.site-footer
+
+! 7/16/2018, 9:56:43 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.alignleft.inline-widget
+
+! 7/16/2018, 9:56:54 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.expandable-list-wrapper.linear-related
+
+! 7/16/2018, 9:57:11 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.report-sidebar > .sd-sharing-enabled.sharedaddy
+
+! 7/16/2018, 9:57:22 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.content-column-no-aside
+
+! 7/16/2018, 9:57:28 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.feature-more-on.module-secondary
+
+! 7/16/2018, 9:58:03 PM https://www.brookings.edu/blog/order-from-chaos/2018/07/16/around-the-halls-brookings-experts-react-to-the-trump-putin-meeting-and-nato-summit/
+www.brookings.edu##.pinned.not-top.site-header
+
+! 7/22/2018, 11:25:42 PM https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html
+www.nytimes.com##.collection-menu
+
+! 7/22/2018, 11:25:48 PM https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html
+www.nytimes.com##.ribbon-menu
+
+! 7/22/2018, 11:25:55 PM https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html
+www.nytimes.com###ribbon
+
+! 7/22/2018, 11:26:01 PM https://www.nytimes.com/interactive/2018/07/18/upshot/nike-vaporfly-shoe-strava.html
+www.nytimes.com##.container
+
+! 7/30/2018, 10:11:23 PM https://www.pinterest.com/pin/63613413470096656/
+www.pinterest.com##div.Grid__Item:nth-of-type(67) > ._2u._3r._0 > .GrowthUnauthPin_brioPin
+
+! 8/29/2018, 1:32:35 PM https://twitter.com/
+twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(1)
+
+! 8/29/2018, 1:32:39 PM https://twitter.com/
+twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
+
+! 8/29/2018, 1:32:42 PM https://twitter.com/
+twitter.com##.roaming-module.module.Footer > div.flex-module:nth-of-type(1)
+
+! 8/29/2018, 1:32:45 PM https://twitter.com/
+twitter.com##.Footer-adsModule.flex-module
+
+! 9/1/2018, 3:40:12 PM https://www.facebook.com/
+www.facebook.com###sideNav > div
+
+! 9/1/2018, 3:40:21 PM https://www.facebook.com/
+www.facebook.com###pagelet_video_home_suggested_for_you_rhc > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
+! 9/1/2018, 3:40:27 PM https://www.facebook.com/
+www.facebook.com##.egoOrganicColumn.o_1a0vi5s23-.pagelet > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
+! 9/1/2018, 3:40:33 PM https://www.facebook.com/
+www.facebook.com##._45mq
+
+! 9/3/2018, 4:20:38 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.featured-video__details
+
+! 9/3/2018, 4:20:48 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.jw-overlay.jw-related.jw-reset
+
+! 9/3/2018, 4:20:53 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com###featured-video__player_related
+
+! 9/3/2018, 4:20:58 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.jw-reset.jw-video
+
+! 9/3/2018, 4:21:03 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.jw-reset.jw-media
+
+! 9/3/2018, 4:21:09 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.jw-reset.jw-aspect
+
+! 9/3/2018, 4:21:27 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.featured-video__player-container
+
+! 9/3/2018, 4:21:32 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.featured-video
+
+! 9/3/2018, 4:21:41 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.navbox
+
+! 9/3/2018, 4:21:49 PM http://streetfighter.wikia.com/wiki/Ryu
+streetfighter.wikia.com##.page-header__categories
