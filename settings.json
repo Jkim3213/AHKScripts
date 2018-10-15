@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.colorTheme": "Monokai",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.rulers": [80]
+}
